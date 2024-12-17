@@ -9,13 +9,13 @@ Looking for items from Mister Rogers' Neighborhood? We have it all right here!
 * Provide a platform for fans to connect with the legacy of Fred Rogers.
 
 ## Future Enhancements:
-    * Expanded product inventory 
-    * Blog or news section with updates on Mister Rogers and the show 
-    * Community forum for fans to connect and discuss 
-    * Charitable donations to organizations inspired by Mister Rogers 
-    * Secure online payment processing 
-    * Shopping cart functionality 
-    * User accounts and order history 
+* Expanded product inventory 
+* Blog or news section with updates on Mister Rogers and the show 
+* Community forum for fans to connect and discuss 
+* Charitable donations to organizations inspired by Mister Rogers 
+* Secure online payment processing 
+* Shopping cart functionality 
+* User accounts and order history 
 
 
 Website © 2024 Alexander Egerev. All Rights Reserved. <br/>
