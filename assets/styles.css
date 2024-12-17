@@ -40,6 +40,9 @@ main {
     min-width: 400px;
 }
 
+a{
+    color: #A67D3D;
+}
 footer {
     bottom: 0;
     width: 100%;
