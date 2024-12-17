@@ -1,4 +1,4 @@
-# The Neighborhood Store!
+# The Neighborhood Store
 
 Looking for items from Mister Rogers' Neighborhood? We have it all right here!
 
