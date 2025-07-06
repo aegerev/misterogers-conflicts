@@ -13,6 +13,7 @@ function App() {
           <p>Want to see behind-the-scenes of the project? You can do so <a href="https://github.com/aegerev/misterogers-on-demand">here.</a></p>
         </header>
 
+      <main>
         <section class="card">
           <header>Southwood's Acting Strange...</header>
           <video controls width="70%" className="videoPlayer" src={mrnConflicts}></video>
@@ -40,7 +41,8 @@ function App() {
             Back at the house, Mister Rogers sings a line from King Friday's song before he plays a game by dropping coins onto a piece of paper with shapes drawn on it. Lastly, Mister Rogers shows a film called "Food Drop" which shows food being dropped from a military aircraft.</p>
 
   </section>
-
+  
+</main>
     </>
 
     //   <div>
