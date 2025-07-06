@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
+import mrnConflicts from './assets/mrn-conflict.mp4'
 import viteLogo from '/vite.svg'
 import './App.css'
 
@@ -15,9 +15,8 @@ function App() {
 
         <section class="card">
           <header>Southwood's Acting Strange...</header>
-          <video controls width="500">
-                <source src="./assets/videos/mrn-conflict.mp4" type="video/mp4" />
-                </video>
+          <video controls width="70%" className="videoPlayer" src={mrnConflicts}></video>
+
           <p>Mister Rogers arrives with a wooden puzzle where specific shapes must be matched to their corresponding holes. After playing with the puzzle for a moment, Mister Rogers sings You've Got to Do It.
           
           <br/> <br/>
@@ -39,7 +38,7 @@ function App() {
             <br/> <br/>
 
             Back at the house, Mister Rogers sings a line from King Friday's song before he plays a game by dropping coins onto a piece of paper with shapes drawn on it. Lastly, Mister Rogers shows a film called "Food Drop" which shows food being dropped from a military aircraft.</p>
-            
+
   </section>
 
     </>
