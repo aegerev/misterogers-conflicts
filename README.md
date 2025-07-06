@@ -1,22 +1,24 @@
-# The Neighborhood Store
+React Video Player Project
+This project features a simple, responsive video player built with React, showcasing the "Conflicts" arc of Mister Rogers' Neighborhood. It's designed to provide a clean and accessible interface for viewing video content.
 
-Looking for items from Mister Rogers' Neighborhood? We have it all right here!
+📺 Project Content
+This video player project proudly features all five episodes of the "Conflicts" arc from the beloved television series, Mister Rogers' Neighborhood. Those episodes aren't shown anywhere else. These episodes explore themes of conflict resolution, understanding, and empathy, making them a timeless and valuable addition to the player.
 
-## Project Goals:
+✨ Features
+Responsive Design: Adapts to various screen sizes for optimal viewing on desktop, tablet, and mobile devices.
 
-* Create a virtual store for fans of Mister Rogers' Neighborhood.
-* Offer a curated selection of merchandise related to the show.
-* Provide a platform for fans to connect with the legacy of Fred Rogers.
+Intuitive Controls: Standard video playback controls (play/pause, volume, progress bar, fullscreen).
 
-## Future Enhancements:
-* Expanded product inventory 
-* Blog or news section with updates on Mister Rogers and the show 
-* Community forum for fans to connect and discuss 
-* Charitable donations to organizations inspired by Mister Rogers 
-* Secure online payment processing 
-* Shopping cart functionality 
-* User accounts and order history 
+Simplified UI: All five episodes of 'Conflicts' are shown on the screen. All you have to do is select which episode you want to watch.
 
+👥 Credits
+Project Developer: Alexander Egerev (https://github.com/aegerev/)
 
-Website © 2024 Alexander Egerev. All Rights Reserved. <br/>
-Mister Rogers' Neighborhood © 1968-2001, 2024 The Fred Rogers Company/Fred Rogers Productions. All Rights Reserved.
+Video Content: Mister Rogers' Neighborhood - Produced by Fred Rogers Productions. All rights reserved.
+
+📄 License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+🌐 Website
+You can view a live demo of this project here:
+[YOUR_LIVE_WEBSITE_LINK_HERE]

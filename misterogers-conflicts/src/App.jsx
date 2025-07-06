@@ -41,8 +41,18 @@ function App() {
             Back at the house, Mister Rogers sings a line from King Friday's song before he plays a game by dropping coins onto a piece of paper with shapes drawn on it. Lastly, Mister Rogers shows a film called "Food Drop" which shows food being dropped from a military aircraft.</p>
 
   </section>
-  
+
 </main>
+<h1> ABOUT </h1>
+      <p>The "Conflict" arc in Mister Rogers' Neighborhood, a five-episode series from the 14th season, directly addresses the concept of conflict and war, particularly in response to the heightened tensions of the Cold War era. The arc, debuting in November 1983, uses the Neighborhood of Make-Believe to explore how misunderstandings and assumptions can escalate into conflict, even without physical violence. </p>
+
+      <br/>
+
+      <p>Due to the sensitive nature of the topic and concerns about the potential impact on young viewers, the "Conflict" episodes were removed from regular rotation and TV. </p>
+      <footer>
+        <p>Website &copy; 2025 Alexander Egerev. All Rights Reserved.</p>
+        <p>Mister Rogers' Neighborhood &copy; 1968-2001, 2025 The Fred Rogers Company/Fred Rogers Productions. All Rights Reserved.</p>
+      </footer>
     </>
 
     //   <div>
