@@ -27,17 +27,13 @@ main {
     text-align: center;
     border-style: solid;
     border-width: 1px;
+    flex-wrap: wrap;
 }
 
 .card header {
     padding: 20px;
     background-color: #A67D3D;
     color: #7093DB; 
-}
-
-.card img {
-    width: 100%;
-    min-width: 400px;
 }
 
 a{
