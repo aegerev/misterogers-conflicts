@@ -17,7 +17,7 @@ function App() {
         <section class="card">
           <header>Southwood's Acting Strange...</header>
           <br/>
-          <video controls width="70%" className="videoPlayer" src={mrnConflicts}></video>
+          <video controls width="100%" className="videoPlayer" src={mrnConflicts}></video>
 
           <p>Mister Rogers arrives with a wooden puzzle where specific shapes must be matched to their corresponding holes. After playing with the puzzle for a moment, Mister Rogers sings You've Got to Do It.
           

@@ -1,3 +1,5 @@
+
+
 * {
     box-sizing: border-box;
 }
@@ -8,43 +10,56 @@ body {
 }
 
 main {
-    display: flex;
-    flex-wrap: wrap;
     margin-top: 2%;
+    display: flex; /* Make main a flex container */
+    flex-wrap: wrap; /* Allow cards to wrap to the next line */
+    justify-content: center; /* Center the cards horizontally */
+    gap: 20px; /* Add some space between cards */
+    padding: 20px; /* Add some padding around the card container */
 }
 
 .main-header {
-    display: flex;
     justify-content: space-between;
     padding: 60px;
     background: #4D4DFF;
     color: #C0D9D9;
+    width: 100%; /* Ensure header takes full width */
 }
 
 .card {
-    flex: 1 0 0;
+    /* Removed flex: 1 0 0; from here */
     padding: 10px;
     text-align: center;
     border-style: solid;
     border-width: 1px;
-    flex-wrap: wrap;
+    flex-basis: calc(33.333% - 20px); /* For 3 cards per row, subtract gap */
+    max-width: calc(33.333% - 20px); /* Ensure it doesn't grow beyond this */
+    display: flex; /* Keep card as a flex container for its internal content */
+    flex-direction: column; /* Stack header and content vertically */
+}
+
+/* Specific styling for the last two cards to be on their own row */
+.card:nth-last-child(-n + 2) { /* Selects the last two children */
+    flex-basis: calc(50% - 20px); /* For 2 cards per row, subtract gap */
+    max-width: calc(50% - 20px); /* Ensure it doesn't grow beyond this */
 }
 
 .card header {
     padding: 20px;
     background-color: #A67D3D;
-    color: #7093DB; 
+    color: #7093DB;
 }
 
-a{
+a {
     color: #A67D3D;
 }
+
 footer {
     bottom: 0;
     width: 100%;
     text-align: center;
     background-color: #3232CD;
-    color: #E6E8FA;  
-    padding: 20px; 
+    color: #E6E8FA;
+    padding: 20px;
     font-size: 1em;
 }
