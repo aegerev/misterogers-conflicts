@@ -1,5 +1,9 @@
 import { useState } from 'react'
 import mrnConflicts from './assets/mrn-conflict.mp4'
+import mrnConflicts2 from './assets/mrn-conflict2.mp4'
+import mrnConflicts3 from './assets/mrn-conflict3.mp4'
+import mrnConflicts4 from './assets/mrn-conflict2.mp4'
+import mrnConflicts5 from './assets/mrn-conflict2.mp4'
 import viteLogo from '/vite.svg'
 import './App.css'
 
@@ -46,7 +50,7 @@ function App() {
 
   <section class="card">
     <header>Make-Believe On High Alert</header>
-      <video controls width="70%" className="videoPlayer" src={'https:www.dailymotion.com/video/x5qqid9'}></video>
+      <video controls width="100%" className="videoPlayer" src={mrnConflicts2}></video>
 
       <br/>
 
@@ -77,7 +81,7 @@ function App() {
         <section class="card">
           <header>Preparation For Trouble</header>
           <br/>
-          <video controls width="100%" className="videoPlayer" src={'https:www.dailymotion.com/video/x5qqid9'}></video>
+          <video controls width="100%" className="videoPlayer" src={mrnConflicts3}></video>
 
           <p>Mister Rogers brings a Braille writing machine with him and demonstrates how it works. He then takes viewers with him as he visits with Jim Swauger in a cave where he see the petroglyphs of an early civilization.
           
